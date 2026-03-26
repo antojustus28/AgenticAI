@@ -1,13 +1,11 @@
 # AgenticAI Platform
 
 
-
 ## Overview
 
 AgenticAI is a modular .NET solution designed to orchestrate intelligent agents, workflows, and integrations.  
 
 It follows a clean architecture pattern with clear separation of concerns across projects.
-
 
 
 ## Project Structure
@@ -25,19 +23,17 @@ It follows a clean architecture pattern with clear separation of concerns across
 - **AgenticAI.Tests** → Unit and integration tests
 
 
-
 ## Getting Started
 
 1. Clone the repository:
 
- ```bash
-
+```bash
 git clone https://github.com/antojustus28/AgenticAI.git
+```
 
 2. Create a new repository on the command line
 
-#echo "# AgenticAI" >> README.md
-
+```bash
 git config --global user.email "antojustus28@gmail.com"
 git config --global user.name "antojustus28"
 
@@ -47,9 +43,12 @@ git commit -m "Initial commit - Agentic AI Platform"
 git branch -M main
 git remote add origin https://github.com/antojustus28/AgenticAI.git
 git push -u origin main
+```
 
 3. Push an existing repository from the command line
 
+```bash
 git remote add origin https://github.com/antojustus28/AgenticAI.git
 git branch -M main
 git push -u origin main
+```
