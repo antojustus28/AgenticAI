@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="AgenticAI.Agents/AgenticAI.Agents.csproj" />
+  <Project Path="AgenticAI.API/AgenticAI.API.csproj" />
+  <Project Path="AgenticAI.Core/AgenticAI.Core.csproj" />
+  <Project Path="AgenticAI.Infrastructure/AgenticAI.Infrastructure.csproj" />
+  <Project Path="AgenticAI.Orchestration/AgenticAI.Orchestration.csproj" />
+  <Project Path="AgenticAI.Tests/AgenticAI.Tests.csproj" />
+</Solution>

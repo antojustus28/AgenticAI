@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AgenticAI.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AgenticAI.Core": "1.0.0"
+        },
+        "runtime": {
+          "AgenticAI.Infrastructure.dll": {}
+        }
+      },
+      "AgenticAI.Core/1.0.0": {
+        "runtime": {
+          "AgenticAI.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AgenticAI.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AgenticAI.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\AgenticAINet\AgenticAI.Core\bin\Debug\net10.0\AgenticAI.Core.deps.json
+C:\Users\Owner\source\repos\AgenticAINet\AgenticAI.Core\bin\Debug\net10.0\AgenticAI.Core.dll
+C:\Users\Owner\source\repos\AgenticAINet\AgenticAI.Core\bin\Debug\net10.0\AgenticAI.Core.pdb
+C:\Users\Owner\source\repos\AgenticAINet\AgenticAI.Core\obj\Debug\net10.0\AgenticAI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\source\repos\AgenticAINet\AgenticAI.Core\obj\Debug\net10.0\AgenticAI.Core.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\AgenticAINet\AgenticAI.Core\obj\Debug\net10.0\AgenticAI.Core.AssemblyInfo.cs
+C:\Users\Owner\source\repos\AgenticAINet\AgenticAI.Core\obj\Debug\net10.0\AgenticAI.Core.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\AgenticAINet\AgenticAI.Core\obj\Debug\net10.0\AgenticAI.Core.dll
+C:\Users\Owner\source\repos\AgenticAINet\AgenticAI.Core\obj\Debug\net10.0\refint\AgenticAI.Core.dll
+C:\Users\Owner\source\repos\AgenticAINet\AgenticAI.Core\obj\Debug\net10.0\AgenticAI.Core.pdb
+C:\Users\Owner\source\repos\AgenticAINet\AgenticAI.Core\obj\Debug\net10.0\ref\AgenticAI.Core.dll
