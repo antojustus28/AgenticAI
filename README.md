@@ -34,8 +34,8 @@ git clone https://github.com/antojustus28/AgenticAI.git
 2. Create a new repository on the command line
 
 ```bash
-git config --global user.email "antojustus28@gmail.com"
-git config --global user.name "antojustus28"
+git config --global user.email "@gmail.com"
+git config --global user.name ""
 
 git init
 git add README.md
